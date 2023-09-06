@@ -11,4 +11,3 @@ while True:
   else:
     Number = Number * 3 + 1
     loopnum = loopnum + 1
-    print(Number ," Loop number ", loopnum)
